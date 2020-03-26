@@ -1,0 +1,14 @@
+{
+    "name": "serverless-haskell-hie-devcontainer",
+    "dockerFile": "Dockerfile",
+    "runArgs": [],
+    "settings": {
+        "terminal.integrated.shell.linux": "/bin/bash"
+    },
+    
+    "remoteUser": "vscode",
+    
+    "extensions": [
+        "alanz.vscode-hie-server"
+    ]
+}
